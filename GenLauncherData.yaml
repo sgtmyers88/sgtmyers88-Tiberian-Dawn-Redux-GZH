@@ -1,0 +1,15 @@
+ModificationType: Mod
+Name: C&C Tiberian Dawn Redux
+Version: 1.5
+SimpleDownloadLink: https://onedrive.live.com/download?cid=8788D1B668C9AF2A&resid=8788D1B668C9AF2A%21501&authkey=ACGX3M4kXR0q2Oo
+UIImageSourceLink: https://media.moddb.com/images/members/1/236/235607/genlauncherbanner.png
+DiscordLink: https://discord.gg/FjFhmCQRx9
+ModDBLink: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux
+NewsLink: https://discord.com/channels/949747037438627861/973722143848300544
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: tbredux
+S3FolderName: redux
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux/tutorials/cc-tiberian-dawn-redux-hamachi-rooms-for-online-play
