@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: C&C 64 Music Remixes
+Version: 1.0
+SimpleDownloadLink: https://onedrive.live.com/embed?cid=8788D1B668C9AF2A&resid=8788D1B668C9AF2A%21505&authkey=ACkLKOvMRuAwmCM
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: C&C Tiberian Dawn Redux
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: ''
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
