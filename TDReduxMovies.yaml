@@ -1,0 +1,15 @@
+ModificationType: Addon
+Name: Tiberian Dawn Redux Campaign Movies
+Version: 1.5
+SimpleDownloadLink: https://gen.insave.ovh/tbredux/TDReduxMovies.zip
+UIImageSourceLink: ''
+DiscordLink: ''
+ModDBLink: ''
+NewsLink: ''
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: tbredux
+S3FolderName: ''
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
