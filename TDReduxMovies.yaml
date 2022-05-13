@@ -8,7 +8,7 @@ ModDBLink: ''
 NewsLink: ''
 DependenceName: C&C Tiberian Dawn Redux
 S3HostLink: gen.insave.ovh:9000
-S3BucketName: tbredux
+S3BucketName:
 S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
