@@ -8,8 +8,8 @@ ModDBLink: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux
 NewsLink: https://discord.com/channels/949747037438627861/973722143848300544
 DependenceName: ''
 S3HostLink: gen.insave.ovh:9000
-S3BucketName: ''
-S3FolderName: ''
+S3BucketName: tbredux
+S3FolderName: redux
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux/tutorials/cc-tiberian-dawn-redux-hamachi-rooms-for-online-play
