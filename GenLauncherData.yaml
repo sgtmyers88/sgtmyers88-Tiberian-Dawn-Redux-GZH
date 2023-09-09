@@ -12,4 +12,4 @@ S3BucketName: tbredux
 S3FolderName: redux
 S3HostPublicKey: ''
 S3HostSecretKey: ''
-NetworkInfo: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux/tutorials/cc-tiberian-dawn-redux-hamachi-rooms-for-online-play
+NetworkInfo: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux/tutorials/online-gameplay-for-cc-tiberian-dawnred-alert-redux
