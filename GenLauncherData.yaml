@@ -1,6 +1,6 @@
 ModificationType: Mod
 Name: C&C Tiberian Dawn Redux
-Version: 1.5.25
+Version: 1.5.25 GenLauncherFix 1
 SimpleDownloadLink: https://onedrive.live.com/embed?cid=8788D1B668C9AF2A&resid=8788D1B668C9AF2A%21522&authkey=AGhDkg2fgLVFgdU
 UIImageSourceLink: https://media.moddb.com/images/members/1/236/235607/genlauncherbanner.1.png
 DiscordLink: https://discord.gg/FjFhmCQRx9
@@ -27,5 +27,5 @@ ColorsInformation:
   GenLauncherListBoxSelectionColor2: '#42870f'
   GenLauncherListBoxSelectionColor1: '#22dc14'
   GenLauncherButtonSelectionColor: '#22dc14'
-GenLauncherBackgroundImageLink: https://media.moddb.com/images/members/1/236/235607/GlBg.2.png
+  GenLauncherBackgroundImageLink: https://media.moddb.com/images/members/1/236/235607/GlBg.2.png
 SupportLink: https://www.paypal.com/paypalme/JMyers1988
