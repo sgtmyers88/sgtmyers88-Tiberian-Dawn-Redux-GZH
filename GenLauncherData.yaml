@@ -13,3 +13,19 @@ S3FolderName: redux
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux/tutorials/online-gameplay-for-cc-tiberian-dawnred-alert-redux
+Deprecated: false
+ColorsInformation:
+GenLauncherBorderColor: '#b22626'
+GenLauncherInactiveBorder: '#797878'
+GenLauncherInactiveBorder2: '#573b3b'
+GenLauncherActiveColor: '#b22626'
+GenLauncherDarkFillColor: '#860f0f'
+GenLauncherDarkBackGround: '#000000'
+GenLauncherLightBackGround: '#000000'
+GenLauncherDefaultTextColor: White
+GenLauncherDownloadTextColor: White
+GenLauncherListBoxSelectionColor2: '#e41e25'
+GenLauncherListBoxSelectionColor1: '#ed1c24'
+GenLauncherButtonSelectionColor: '#ed1c24'
+GenLauncherBackgroundImageLink: https://cdn.discordapp.com/attachments/799373032778498069/1021428151131312169/GlBg.png
+SupportLink: https://www.paypal.com/paypalme/JMyers1988
