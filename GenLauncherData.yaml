@@ -15,17 +15,17 @@ S3HostSecretKey: ''
 NetworkInfo: https://www.moddb.com/mods/command-conquer-tiberian-dawn-redux/tutorials/online-gameplay-for-cc-tiberian-dawnred-alert-redux
 Deprecated: false
 ColorsInformation:
-GenLauncherBorderColor: '#3da300'
-GenLauncherInactiveBorder: '#787978'
-GenLauncherInactiveBorder2: '#366f36'
-GenLauncherActiveColor: '#3da300'
-GenLauncherDarkFillColor: '#42870f'
-GenLauncherDarkBackGround: '#000000'
-GenLauncherLightBackGround: '#000000'
-GenLauncherDefaultTextColor: White
-GenLauncherDownloadTextColor: White
-GenLauncherListBoxSelectionColor2: '#42870f'
-GenLauncherListBoxSelectionColor1: '#22dc14'
-GenLauncherButtonSelectionColor: '#22dc14'
+  GenLauncherBorderColor: '#3da300'
+  GenLauncherInactiveBorder: '#787978'
+  GenLauncherInactiveBorder2: '#366f36'
+  GenLauncherActiveColor: '#3da300'
+  GenLauncherDarkFillColor: '#42870f'
+  GenLauncherDarkBackGround: '#000000'
+  GenLauncherLightBackGround: '#000000'
+  GenLauncherDefaultTextColor: White
+  GenLauncherDownloadTextColor: White
+  GenLauncherListBoxSelectionColor2: '#42870f'
+  GenLauncherListBoxSelectionColor1: '#22dc14'
+  GenLauncherButtonSelectionColor: '#22dc14'
 GenLauncherBackgroundImageLink: https://media.moddb.com/images/members/1/236/235607/GlBg.2.png
 SupportLink: https://www.paypal.com/paypalme/JMyers1988
