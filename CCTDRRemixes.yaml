@@ -1,6 +1,6 @@
 ModificationType: Addon
 Name: C&C Tiberian Dawn Redux Soundtrack Remixes
-Version: 1.04
+Version: 1.05
 SimpleDownloadLink: https://gen.insave.ovh/tbredux/CCTiberianDawnReduxSoundtrackRemixes.zip
 UIImageSourceLink: ''
 DiscordLink: ''
@@ -13,3 +13,4 @@ S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
