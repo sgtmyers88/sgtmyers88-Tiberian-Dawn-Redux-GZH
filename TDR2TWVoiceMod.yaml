@@ -1,6 +1,6 @@
 ModificationType: Addon
 Name: Tiberian Dawn To Tiberium Wars Voice Mod
-Version: 1.03
+Version: 1.04
 SimpleDownloadLink: https://gen.insave.ovh/tbredux/TDR2TWVoiceMod.zip
 UIImageSourceLink: ''
 DiscordLink: ''
@@ -13,5 +13,6 @@ S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
